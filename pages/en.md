@@ -41,12 +41,14 @@ experience:
       position: Software Engineer
       period: Mar/2022 - Present
       description: >
-        - Back-end development and maintenance of services serving over 3.5 million users across Brazil
-        - Integration with payment services and recurring billing systems, transaction management, and user balance handling
-        - Automation of recurring tasks for back-office and support teams, improving customer service efficiency
-        - Development of several new back-end features such as freemium plans, user and dependent management, and checkout processes
-        - Contribution to security improvements, production environment demands, and bug fixes/support tickets
-        - Python development, focusing on frameworks like Django and Chalice
+        <ul>
+        <li> Back-end development and maintenance of services serving over 3.5 million users across Brazil. </li>
+        <li> Integration with payment services and recurring billing systems, transaction management, and user balance handling. </li>
+        <li> Automation of recurring tasks for back-office and support teams, improving customer service efficiency. </li>
+        <li> Development of several new back-end features such as freemium plans, user and dependent management, and checkout processes. </li>
+        <li> Contribution to security improvements, production environment demands, and bug fixes/support tickets. </li>
+        <li> Python development, focusing on frameworks like Django and Chalice. </li>
+        </ul>
       technologies:
         - Python
         - Django
@@ -74,5 +76,6 @@ extras:
     entries:
       - Good Communication
       - Teamwork
-      - Analytical Thi
+      - Analytical Thinking
+      - Proactivity
 ---
