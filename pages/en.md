@@ -36,7 +36,7 @@ technologies:
 experience:
   title: Professional Experience
   entries:
-    - name: Maistodos
+    - name: MaisTODOS
       location: Ribeirão Preto - SP (Remote)
       position: Software Engineer
       period: Mar/2022 - Present

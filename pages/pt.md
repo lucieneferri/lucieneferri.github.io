@@ -34,7 +34,7 @@ technologies:
 experience:
   title: Experiência Profissional
   entries:
-    - name: Maistodos
+    - name: MaisTODOS
       location: Ribeirão Preto - SP (Remoto)
       position: Engenheira de Software
       period: Mar/2022 - atualmente
