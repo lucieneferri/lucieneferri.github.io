@@ -40,7 +40,7 @@ experience:
       period: Mar/2022 - atualmente
       description: >
         <ul>
-        <li> Desenvolvimento back-end e manutenção de serviços que atendem mais 3,5 milhões de usuários em todo o Brasil </li>
+        <li> Desenvolvimento back-end e manutenção de serviços que atendem mais de 3,5 milhões de usuários em todo o Brasil </li>
         <li> Integração com serviços de pagamentos e de recorrência de cobrança, gestão de transações financeiras e saldo de usuários </li>
         <li> Automatização de tarefas recorrentes do times de back-office e suporte, ajudando na agilidade do processo de atendimento ao cliente </li>
         <li> Desenvolvimento de uma séries de features novas no back-end como planos freemium, gestão de usuários e dependentes e checkout de compras </li>
